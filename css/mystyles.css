@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke;
+    font-family: var(--bs-body-font-family);
+    text-align: left;
+    text-align: center;
+    padding:10px;
+    border: 5px solid black;
+    margin: 50px;
+}
+
+.commonmainbody{
+
+}
+
+.mylist{
+    text-align: center;
+}
+
+.mylistitems{
+    display: inline-block;
+    text-align: left;
+}
